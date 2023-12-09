@@ -3,7 +3,7 @@
 Website Live Link: https://stunning-zabaione-17bb92.netlify.app/
 <h2>Project Features :</h2>
 <ol>
-    <li> User Add New Food Item<li>
+    <li> User Add New Food Item</li>
     <li>Show All User Items</li>
     <li>Showing the User's Order</li>
     <li>Firebase Authentication</li>
