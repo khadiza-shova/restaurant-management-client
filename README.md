@@ -1,6 +1,6 @@
 
 <h3>Welcome To the Restaurant Management System Website</h3>
-Website Live Link: https://restaurant-management-28904.web.app/
+Website Live Link: https://stunning-zabaione-17bb92.netlify.app/
 <h2>Project Features :</h2>
 <ol>
     <li> User Add New Food Item<li>
