@@ -1,0 +1,21 @@
+.button{
+    background-color: #cc3333;
+    outline: none;
+    padding: 12px 20px;
+    color: white;
+    border-radius: 4px;
+}
+.pagination button{
+    background-color: black;
+    outline: none;
+    padding: 12px 20px;
+    color: white;
+    border-radius: 4px;
+}
+.pagination .selected{
+    background-color: #cc3333;
+    outline: none;
+    padding: 12px 20px;
+    color: white;
+    border-radius: 4px;
+}
