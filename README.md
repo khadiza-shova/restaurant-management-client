@@ -20,8 +20,3 @@ Website Live Link: https://stunning-zabaione-17bb92.netlify.app/
 
 
 
-     Technology Used: React, React Router, Firebase, Express Js,   Mongo Db
-
-
-
-
